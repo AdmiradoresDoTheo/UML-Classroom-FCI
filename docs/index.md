@@ -38,7 +38,21 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+* Requisitos Funcionais
+  
+[RF001] - Registrar faltas: o professor deve ser capaz de fazer o registro de faltas duas vezes por dia (no início das aulas e após o retorno do intervalo).
+
+[RF002] - Gerar relatórios: o sistema deve ser capaz de gerar relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina ou aluno.
+
+[RF003] - Enviar notificações: em casos de faltas excessivas, o sistema deve ser capaz de enviar informes aos pais ou responsáveis do aluno (presença abaixo de 80%).
+
+[RF004] - Acessibilidade: o sistema deve ser acessível para todos os usuários, tendo recursos como fonte ajustável.
+
+[RF005] - Acesso multiplataforma: os usuários devem conseguir acessar o sistema a partir de qualquer navegador web.
+
+* Requisitos Não-Funcionais
+
 
 # Diagrama de Atividades
 
