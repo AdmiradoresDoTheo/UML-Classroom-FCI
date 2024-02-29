@@ -51,8 +51,19 @@
 
 [RF005] - Acesso multiplataforma: os usuários devem conseguir acessar o sistema a partir de qualquer navegador web.
 
+>Obs.: cada turma ter um professor associado
+
 * Requisitos Não-Funcionais
 
+[RNF001] - Segurança: 
+
+[RNF002] - Responsividade: visualização clara e intuitiva para todos os tipos de dispositivos.
+
+[RNF003] - Acessibilidade: talkback, alto contraste 
+
+[RNF004] - Performance:
+
+[RNF005] - Permissões do sistema: apenas os professores podem registrar as faltas e cada aluno só tem acesso ao seu próprio portal.
 
 # Diagrama de Atividades
 
