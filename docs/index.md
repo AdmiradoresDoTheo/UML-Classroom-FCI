@@ -27,14 +27,10 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Enzo Guarnieri 10410074
+* Erika Borges Piaui 10403716
+* João Pedro Zavanela Andreu 10410137
+* Júlia Campolim de Oste 10408802
 
 
 # Descrição do Projeto
