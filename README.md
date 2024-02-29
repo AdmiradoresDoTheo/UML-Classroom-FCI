@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *Projeto da escola INFINITO!*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *#define GRUPO4 admiradores-do-theo #include <Júlia>*
 
 # Descrição
 
