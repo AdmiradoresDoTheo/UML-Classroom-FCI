@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+Sistema de Presenças
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -35,7 +31,10 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+   O projeto visa a criação de um sistema capaz de controlar as presenças dos alunos da Escola Infinito. Esse sistema irá substituir o que, até então, era registrado, apenas, em papel. Para o desenvolvimento da aplicação, é imprescindível saber algumas informações a respeito do funcionamento da escola como: possui apenas turmas do ensino Fundamental I (do primeiro ao quinto ano), cada turma possui cerca de 10 a 30 alunos, um professor responsável por ensinar todas as principais disciplinas (Artes, Ciências, Geografia, História, Matemática e Português) e outros professores para as aulas de Educação Física e Inglês. Vale ressaltar, que a chamada é realizada duas vezes todos os dias sendo a primeira no início das aulas e a segunda após o intervalo. Para obter aprovação, o aluno precisa ter comparecido a, pelo menos, 75% das aulas, caso contrário será reprovado.
+  
+   Para isso, o sistema deverá ter dois usuários em mente, os alunos e os professores, e cada um deles terá funções diferentes na aplicação. Os usuários tidos como professores, devem ser capazes de registrar as faltas dos alunos duas vezes por dia (como descrito anteriormente). Os usuários alunos, devem ser capazes de visualizar as suas faltas ao entrar no sistema (tanto em número inteiro, quanto em porcentagem) para monitorar sua presença. Por parte do sistema, é esperado que ele gere relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina e/ou aluno, envie notificações em casos de faltas excessivas, possua fonte ajustável como recurso de acessibilidade e possa ser acessado através de qualquer navegador web.
+  
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
@@ -43,7 +42,7 @@
   
 [RF001] - Registrar faltas: o professor deve ser capaz de fazer o registro de faltas duas vezes por dia (no início das aulas e após o retorno do intervalo).
 
-[RF002] - Gerar relatórios: o sistema deve ser capaz de gerar relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina ou aluno.
+[RF002] - Gerar relatórios: o sistema deve ser capaz de gerar relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina e/ou aluno.
 
 [RF003] - Enviar notificações: em casos de faltas excessivas, o sistema deve ser capaz de enviar informes aos pais ou responsáveis do aluno (presença abaixo de 80%).
 
@@ -51,17 +50,19 @@
 
 [RF005] - Acesso multiplataforma: os usuários devem conseguir acessar o sistema a partir de qualquer navegador web.
 
+[RF006] - Visualizar faltas: Ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
+
 >Obs.: cada turma ter um professor associado
 
 * Requisitos Não-Funcionais
 
-[RNF001] - Segurança: 
+[RNF001] - Segurança: o sistema deve possuir recursos de segurança como backup de dados e gerenciamento de acesso à internet.
 
 [RNF002] - Responsividade: visualização clara e intuitiva para todos os tipos de dispositivos.
 
 [RNF003] - Acessibilidade: talkback, alto contraste 
 
-[RNF004] - Performance:
+[RNF004] - Performance: o sistema deve ser capaz de executar suas funcionalidades de forma rápida e eficiente.
 
 [RNF005] - Permissões do sistema: apenas os professores podem registrar as faltas e cada aluno só tem acesso ao seu próprio portal.
 
