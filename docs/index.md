@@ -38,7 +38,7 @@ Sistema de Presenças
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
-### * Requisitos Funcionais
+### Requisitos Funcionais:
   
 [RF001] - Registrar faltas: o professor deve ser capaz de fazer o registro de faltas duas vezes por dia (no início das aulas e após o retorno do intervalo).
 
@@ -56,7 +56,7 @@ Sistema de Presenças
 
 >Obs.: cada turma deve ter um professor associado
 
-### * Requisitos Não-Funcionais
+### Requisitos Não-Funcionais:
 
 [RNF001] - Segurança: o sistema deve possuir recursos de segurança como backup de dados e gerenciamento de acesso à internet.
 
