@@ -31,9 +31,14 @@ Sistema de Presenças
 
 # Descrição do Projeto
 
-   O projeto visa a criação de um sistema capaz de controlar as presenças dos alunos da Escola Infinito. Esse sistema irá substituir o que, até então, era registrado apenas em papel. Para o desenvolvimento da aplicação, é imprescindível saber algumas informações a respeito do funcionamento da escola como: possui apenas turmas do ensino Fundamental I (do primeiro ao quinto ano), cada turma possui cerca de 10 a 30 alunos, um professor responsável por ensinar todas as principais disciplinas (Artes, Ciências, Geografia, História, Matemática e Português) e outros professores para as aulas de Educação Física e Inglês. Vale ressaltar, que a chamada é realizada duas vezes todos os dias sendo a primeira no início das aulas e a segunda após o intervalo. Para obter aprovação, o aluno precisa ter comparecido a, pelo menos, 75% das aulas, caso contrário será reprovado.
+   O projeto visa a criação de um sistema capaz de controlar as presenças dos alunos da Escola Infinito. Esse sistema irá substituir o que, até então, era registrado apenas em papel.
+   
+   A escola possui apenas turmas do ensino Fundamental I (do primeiro ao quinto ano), cada turma possui cerca de 10 a 30 alunos, um professor responsável por todas as principais disciplinas (artes, ciências, geografia, história, matemática e português) e outros professores para as aulas de educação física e inglês. 
+A chamada é realizada duas vezes todos os dias sendo a primeira no início das aulas e a segunda após o intervalo. Para obter aprovação, o aluno precisa ter comparecido a, pelo menos, 75% das aulas, caso contrário será reprovado.
   
-   Para isso, o sistema deverá ter dois usuários em mente, os alunos e os professores, e cada um deles terá funções diferentes na aplicação. Os usuários tidos como professores, devem ser capazes de registrar as faltas dos alunos duas vezes por dia (como descrito anteriormente). Os usuários alunos, devem ser capazes de visualizar as suas faltas ao entrar no sistema (tanto em número inteiro, quanto em porcentagem) para monitorar sua presença. Por parte do sistema, é esperado que ele gere relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina e/ou aluno, envie notificações em casos de faltas excessivas, possua fonte ajustável como recurso de acessibilidade e possa ser acessado através de qualquer navegador web.
+   Para isso, o sistema deverá ter dois usuários em mente, os alunos e os professores, e cada um deles terá funções e privilégios diferentes na aplicação. Os usuários tidos como professores, devem ser capazes de registrar as faltas dos alunos duas vezes por dia (como descrito anteriormente). Os usuários alunos, devem ser capazes de visualizar as suas faltas ao entrar no sistema (tanto em número inteiro, quanto em porcentagem) para monitorar sua presença. 
+   
+   Por parte do sistema, é esperado que ele gere relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina e/ou aluno, envie notificações em casos de faltas excessivas, possua fonte ajustável como recurso de acessibilidade e possa ser acessado através de qualquer navegador web.
   
 
 # Análise de Requisitos Funcionais e Não-Funcionais
