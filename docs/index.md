@@ -23,10 +23,10 @@ Sistema de Presenças
 
 # Autores
 
-* Enzo Guarnieri 10410074
-* Erika Borges Piaui 10403716
-* João Pedro Zavanela Andreu 10410137
-* Júlia Campolim de Oste 10408802
+* Enzo Guarnieri - 10410074
+* Erika Borges Piaui - 10403716
+* João Pedro Zavanela Andreu - 10410137
+* Júlia Campolim de Oste - 10408802
 
 
 # Descrição do Projeto
@@ -50,9 +50,11 @@ Sistema de Presenças
 
 [RF005] - Acesso multiplataforma: os usuários devem conseguir acessar o sistema a partir de qualquer navegador web.
 
-[RF006] - Visualizar faltas: Ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
+[RF006] - Visualizar faltas: ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
 
->Obs.: cada turma ter um professor associado
+[RF007] - Login: os usuários devem ter uma conta logada no sistema.
+
+>Obs.: cada turma deve ter um professor associado
 
 * Requisitos Não-Funcionais
 
