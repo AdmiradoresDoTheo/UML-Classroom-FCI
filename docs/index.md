@@ -52,7 +52,7 @@ Sistema de Presenças
 
 [RF006] - Visualizar faltas: ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
 
-[RF007] - Login: os usuários devem ter uma conta logada no sistema.
+[RF007] - Login: os usuários devem ter uma conta cadastrada no sistema.
 
 >Obs.: cada turma deve ter um professor associado
 
