@@ -10,7 +10,7 @@ Sistema de Presenças
 
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Análise de Requisitos Funcionais e Não-Funcionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
