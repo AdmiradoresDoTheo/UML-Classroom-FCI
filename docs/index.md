@@ -68,6 +68,8 @@ Sistema de Presenças
 
 [RNF005] - Permissões do sistema: apenas os professores podem registrar as faltas e cada aluno só tem acesso ao seu próprio portal.
 
+[RNF006] - Cópia de segurança: o sistema precisa gerar uma cópia de todos os dados periodicamente.
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
