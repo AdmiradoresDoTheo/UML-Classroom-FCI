@@ -76,8 +76,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [RNF006] - Cópia de segurança: o sistema precisa gerar uma cópia de todos os dados periodicamente.
 
 # Diagrama de Atividades
-
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Sistema de presença](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/026dc47e-a789-4259-828b-2621ad89ba8f)
 
 # Diagrama de Casos de Uso
 
