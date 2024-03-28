@@ -76,7 +76,8 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [RNF006] - Cópia de segurança: o sistema precisa gerar uma cópia de todos os dados periodicamente.
 
 # Diagrama de Atividades
-![Sistema de presença](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/026dc47e-a789-4259-828b-2621ad89ba8f)
+![Sistema de presença (1)](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/146954304/ecc2a464-c5a9-4540-b12d-a381b42bd482)
+
 https://lucid.app/lucidchart/09bf3d0f-0714-4774-8c14-1613e47d1285/edit?invitationId=inv_62353d02-d8a5-462d-ac49-aba2bbbf892d
 
 https://lucid.app/lucidchart/ae7eb6ca-9d50-47fd-9099-b65f06538b90/edit?viewport_loc=-10%2C-10%2C1707%2C800%2C0_0&invitationId=inv_c103ba97-477f-4448-b843-19512f7281fc
