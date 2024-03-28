@@ -81,7 +81,7 @@ https://lucid.app/lucidchart/09bf3d0f-0714-4774-8c14-1613e47d1285/edit?invitatio
 
 https://lucid.app/lucidchart/ae7eb6ca-9d50-47fd-9099-b65f06538b90/edit?viewport_loc=-10%2C-10%2C1707%2C800%2C0_0&invitationId=inv_c103ba97-477f-4448-b843-19512f7281fc
 # Diagrama de Casos de Uso
-
+https://lucid.app/lucidspark/d65dbbed-831e-4c9a-99a7-d65d75cd2e5e/edit?viewport_loc=1280%2C2477%2C2048%2C984%2C0_0&invitationId=inv_002db528-4321-4766-96fe-4a00e58eb570
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos Casos de Uso
