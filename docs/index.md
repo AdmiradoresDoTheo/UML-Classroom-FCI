@@ -85,6 +85,10 @@ https://lucid.app/lucidchart/09bf3d0f-0714-4774-8c14-1613e47d1285/edit?invitatio
 
 https://lucid.app/lucidchart/ae7eb6ca-9d50-47fd-9099-b65f06538b90/edit?viewport_loc=-10%2C-10%2C1707%2C800%2C0_0&invitationId=inv_c103ba97-477f-4448-b843-19512f7281fc
 # Diagrama de Casos de Uso
+[UC001] - Entrar: Os usuários aluno, professor e pais/responsáveis são capazes de entrar no sistema usando usuário e senha.
+[UC002] - Registrar faltas: O usuário professor é capaz de registrar a presença dos alunos.
+[UC003] - Visualizar faltas: Os usuários aluno e pais/responsáveis são capazes de visualizar as faltas registradas em seu perfil.
+[UC004] - Sair: Os usuários aluno, professor e pais/responsáveis são capazes de sair do sistema.
 https://lucid.app/lucidspark/d65dbbed-831e-4c9a-99a7-d65d75cd2e5e/edit?viewport_loc=1280%2C2477%2C2048%2C984%2C0_0&invitationId=inv_002db528-4321-4766-96fe-4a00e58eb570
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
