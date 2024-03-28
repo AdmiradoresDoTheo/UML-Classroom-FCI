@@ -77,6 +77,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 # Diagrama de Atividades
 ![Sistema de presença](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/026dc47e-a789-4259-828b-2621ad89ba8f)
+https://lucid.app/lucidchart/09bf3d0f-0714-4774-8c14-1613e47d1285/edit?invitationId=inv_62353d02-d8a5-462d-ac49-aba2bbbf892d
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
