@@ -45,35 +45,35 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 ### Requisitos Funcionais:
   
-[RF001] - Registrar faltas: o professor deve ser capaz de fazer o registro de faltas duas vezes por dia (no início das aulas e após o retorno do intervalo).
+[RF001 - Registrar faltas]: o professor deve ser capaz de fazer o registro de faltas duas vezes por dia (no início das aulas e após o retorno do intervalo).
 
-[RF002] - Gerar relatórios: o sistema deve ser capaz de gerar relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina e/ou aluno.
+[RF002 - Gerar relatórios]: o sistema deve ser capaz de gerar relatórios filtrados por atributos como data, ano do ensino, turma, professor, disciplina e/ou aluno.
 
-[RF003] - Enviar notificações: em casos de faltas excessivas, o sistema deve ser capaz de enviar informes aos pais ou responsáveis do aluno (presença abaixo de 80%).
+[RF003 - Enviar notificações]: em casos de faltas excessivas, o sistema deve ser capaz de enviar informes aos pais ou responsáveis do aluno (presença abaixo de 80%).
 
-[RF004] - Acessibilidade: o sistema deve ser acessível para todos os usuários, tendo recursos como fonte ajustável.
+[RF004 - Acessibilidade]: o sistema deve ser acessível para todos os usuários, tendo recursos como fonte ajustável.
 
-[RF005] - Acesso multiplataforma: os usuários devem conseguir acessar o sistema a partir de qualquer navegador web.
+[RF005 - Acesso multiplataforma]: os usuários devem conseguir acessar o sistema a partir de qualquer navegador web.
 
-[RF006] - Visualizar faltas: ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
+[RF006 - Visualizar faltas]: ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
 
-[RF007] - Login: os usuários devem ter uma conta cadastrada no sistema.
+[RF007 - Login]: os usuários devem ter uma conta cadastrada no sistema.
 
 >Obs.: cada turma deve ter um professor associado
 
 ### Requisitos Não-Funcionais:
 
-[RNF001] - Segurança: o sistema deve possuir recursos de segurança como backup de dados e gerenciamento de acesso à internet.
+[RNF001 - Segurança]: o sistema deve possuir recursos de segurança como backup de dados e gerenciamento de acesso à internet.
 
-[RNF002] - Responsividade: visualização clara e intuitiva para todos os tipos de dispositivos.
+[RNF002 - Responsividade]: visualização clara e intuitiva para todos os tipos de dispositivos.
 
-[RNF003] - Acessibilidade: talkback, alto contraste 
+[RNF003 - Acessibilidade]: talkback, alto contraste 
 
-[RNF004] - Performance: o sistema deve ser capaz de executar suas funcionalidades de forma rápida e eficiente.
+[RNF004 - Performance]: o sistema deve ser capaz de executar suas funcionalidades de forma rápida e eficiente.
 
-[RNF005] - Permissões do sistema: apenas os professores podem registrar as faltas e cada aluno só tem acesso ao seu próprio portal.
+[RNF005 - Permissões do sistema]: apenas os professores podem registrar as faltas e cada aluno só tem acesso ao seu próprio portal.
 
-[RNF006] - Cópia de segurança: o sistema precisa gerar uma cópia de todos os dados periodicamente.
+[RNF006 - Cópia de segurança]: o sistema precisa gerar uma cópia de todos os dados periodicamente.
 
 # Diagrama de Atividades
 ![Sistema de presença (2)](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/146954304/dc7f9728-09b6-43b9-8a7e-50642021a221)
@@ -82,13 +82,13 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
  width='60%' height='60%'>
 
 # Diagrama de Casos de Uso
-[UC001] - Entrar: Os usuários aluno, professor e pais/responsáveis são capazes de entrar no sistema usando usuário e senha.
+[UC001 - Entrar]: Os usuários aluno, professor e pais/responsáveis são capazes de entrar no sistema usando usuário e senha.
 
-[UC002] - Registrar faltas: O usuário professor é capaz de registrar a presença dos alunos.
+[UC002 - Registrar faltas]: O usuário professor é capaz de registrar a presença dos alunos.
 
-[UC003] - Visualizar faltas: Os usuários aluno e pais/responsáveis são capazes de visualizar as faltas registradas em seu perfil.
+[UC003 - Visualizar faltas]: Os usuários aluno e pais/responsáveis são capazes de visualizar as faltas registradas em seu perfil.
 
-[UC004] - Sair: Os usuários aluno, professor e pais/responsáveis são capazes de sair do sistema.
+[UC004 - Sair]: Os usuários aluno, professor e pais/responsáveis são capazes de sair do sistema.
 
 https://lucid.app/lucidspark/d65dbbed-831e-4c9a-99a7-d65d75cd2e5e/edit?viewport_loc=1280%2C2477%2C2048%2C984%2C0_0&invitationId=inv_002db528-4321-4766-96fe-4a00e58eb570
 
