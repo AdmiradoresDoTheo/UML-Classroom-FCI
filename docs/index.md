@@ -90,11 +90,12 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC004] - Sair: Os usuários aluno, professor e pais/responsáveis são capazes de sair do sistema.
 
+https://lucid.app/lucidspark/d65dbbed-831e-4c9a-99a7-d65d75cd2e5e/edit?viewport_loc=1280%2C2477%2C2048%2C984%2C0_0&invitationId=inv_002db528-4321-4766-96fe-4a00e58eb570
+
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos Casos de Uso
-https://lucid.app/lucidspark/d65dbbed-831e-4c9a-99a7-d65d75cd2e5e/edit?viewport_loc=1280%2C2477%2C2048%2C984%2C0_0&invitationId=inv_002db528-4321-4766-96fe-4a00e58eb570
-Comment
+
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
 # Diagrama de Sequência
