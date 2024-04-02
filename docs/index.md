@@ -96,7 +96,7 @@ https://lucid.app/lucidspark/d65dbbed-831e-4c9a-99a7-d65d75cd2e5e/edit?viewport_
 
 # Descrição dos Casos de Uso
 
-*&lt;[UC002 - Registrar faltas]:&gt;*<br><br>
+[UC002 - Registrar faltas]<br><br>
 ![pt1](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/0cab730b-66a6-49a1-9342-2e746bd9ab53)<br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/b321d3d8-3733-48b7-b3fa-3931681c13f9)<br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/e6029f19-a359-40bc-81d6-08f1cf1db9a7)
