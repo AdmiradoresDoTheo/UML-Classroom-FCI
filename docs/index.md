@@ -96,6 +96,10 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 # Descrição dos Casos de Uso
 
 [UC001 - Entrar]<br><br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f0a49fa8-4e21-462e-9933-0018e72b74ba)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/9f979a26-bf06-464c-bfec-48645d897c60)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/7274997f-b14b-4b94-853d-2059e2c73cf7)
+
 
 [UC002 - Registrar faltas]<br><br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/775247fc-745f-443e-af27-80cd1d1b0344)<br>
@@ -105,6 +109,9 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [UC003 - Visualizar faltas]<br><br>
 
 [UC004 - Sair]<br><br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/32c7ba99-1fe1-41a3-b622-fcee02302902)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/acdfa33e-79d7-4090-a7ea-7ef510109a74)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/80e70e0a-9088-46be-9825-5d1f0f8abdd4)
 
 # Diagrama de Sequência
 
