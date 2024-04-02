@@ -110,7 +110,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC004 - Sair]<br><br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/32c7ba99-1fe1-41a3-b622-fcee02302902)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/acdfa33e-79d7-4090-a7ea-7ef510109a74)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/650102a4-3b6c-4eef-b1d5-0328b9c3ad0a)<br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/80e70e0a-9088-46be-9825-5d1f0f8abdd4)
 
 # Diagrama de Sequência
