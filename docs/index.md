@@ -98,9 +98,9 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [UC001 - Entrar]<br><br>
 
 [UC002 - Registrar faltas]<br><br>
-![pt1](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/0cab730b-66a6-49a1-9342-2e746bd9ab53)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/b321d3d8-3733-48b7-b3fa-3931681c13f9)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/e6029f19-a359-40bc-81d6-08f1cf1db9a7)
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/775247fc-745f-443e-af27-80cd1d1b0344)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/8c9258f6-d9b9-444c-bca0-59aea51cb68c)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/85405df2-6d13-456d-9393-20a7b6d20a92)
 
 [UC003 - Visualizar faltas]<br><br>
 
