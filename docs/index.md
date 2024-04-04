@@ -107,6 +107,12 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/85405df2-6d13-456d-9393-20a7b6d20a92)
 
 [UC003 - Visualizar faltas]<br><br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/a69ec33d-e71b-408a-897b-c65b947ef432)
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/70323687-4d4e-4388-9073-55a42856c79e)
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/3f1adb56-8832-4bf0-8ca6-3f680ead4ace)
+
+
+
 
 [UC004 - Sair]<br><br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/32c7ba99-1fe1-41a3-b622-fcee02302902)<br>
