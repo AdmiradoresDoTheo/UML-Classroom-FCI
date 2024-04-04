@@ -90,8 +90,10 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC004 - Sair]: Os usuários aluno, professor e pais/responsáveis são capazes de sair do sistema.
 
-<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/d27c88d1-27ba-49d3-acff-4271be9ed488"
- width='60%' height='60%'>
+
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/98187d9b-83ec-4bdc-8780-ef978596d769"
+ width='90%' height='90%'>
+ 
 
 # Descrição dos Casos de Uso
 
