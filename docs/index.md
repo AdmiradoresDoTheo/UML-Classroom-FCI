@@ -98,7 +98,6 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC006 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
 
-
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'>
  
 # Descrição dos Casos de Uso
