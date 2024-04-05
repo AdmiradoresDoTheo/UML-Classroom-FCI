@@ -59,6 +59,10 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [RF007 - Login]: os usuários devem ter uma conta cadastrada no sistema.
 
+[RF008 - Calcular faltas]: O sistema deverá calcular a porcentagem de faltas de um aluno toda vez que uma chamada for realizada.
+
+[RF009 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
+
 >Obs.: cada turma deve ter um professor associado
 
 ### Requisitos Não-Funcionais:
@@ -89,6 +93,10 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [UC003 - Visualizar faltas]: Os usuários aluno e pais/responsáveis são capazes de visualizar as faltas registradas em seu perfil.
 
 [UC004 - Sair]: Os usuários aluno, professor e pais/responsáveis são capazes de sair do sistema.
+
+[UC005 - Calcular porcentagem de faltas]: O sistema deverá calcular a porcentagem de faltas de um aluno toda vez que uma chamada for realizada.
+
+[UC006 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
 
 
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/98187d9b-83ec-4bdc-8780-ef978596d769"
