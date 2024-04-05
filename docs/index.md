@@ -99,35 +99,32 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [UC006 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
 
 
-<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/98187d9b-83ec-4bdc-8780-ef978596d769"
- width='90%' height='90%'>
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'>
  
-
 # Descrição dos Casos de Uso
 
 [UC001 - Entrar]<br><br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f0a49fa8-4e21-462e-9933-0018e72b74ba)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/9f979a26-bf06-464c-bfec-48645d897c60)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/7274997f-b14b-4b94-853d-2059e2c73cf7)
-
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/06a9b676-92f9-4175-ad0b-4d094be22ed2)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/25dfbd46-583f-4c8f-bb4b-e76976c8d535)<br>
 
 [UC002 - Registrar faltas]<br><br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/775247fc-745f-443e-af27-80cd1d1b0344)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/8c9258f6-d9b9-444c-bca0-59aea51cb68c)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/85405df2-6d13-456d-9393-20a7b6d20a92)
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/15968a95-ec80-431a-8b5d-46e92da23324)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/fecbcd89-70b3-4abc-b14e-b5d38a5079fb)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f2ac688d-0268-490d-b5d8-4f478a1f144d)
 
 [UC003 - Visualizar faltas]<br><br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/a69ec33d-e71b-408a-897b-c65b947ef432)
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/70323687-4d4e-4388-9073-55a42856c79e)
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/3f1adb56-8832-4bf0-8ca6-3f680ead4ace)
-
-
-
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/31c02df4-a26c-4801-b0a1-e98d7b5f261b)
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/617b6b77-a161-4aa6-8fc7-100005f4e1cd)
 
 [UC004 - Sair]<br><br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/32c7ba99-1fe1-41a3-b622-fcee02302902)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/650102a4-3b6c-4eef-b1d5-0328b9c3ad0a)<br>
-![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/80e70e0a-9088-46be-9825-5d1f0f8abdd4)
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/7aa825fc-6a98-443a-818a-659098156903)<br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/32a82c37-add9-40dc-9e23-e632e6c45373)
+
+[UC005 - Calcular porcentagem de faltas]<br><br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/7e419cc2-9f39-4204-9bfa-b90e07df20bd)
+
+[UC006 - Enviar notificações]<br><br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/b1baae40-301b-4461-9382-7155899be77d)
 
 # Diagrama de Sequência
 
