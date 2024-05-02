@@ -8,16 +8,16 @@ Sistema de Presenças
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Funcionais](#descrição-dos-requisitos)
+- [Autores](#autores)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Análise de Requisitos Funcionais e Não-Funcionais](#análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
-- [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
-- [Descrição dos Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de Classes](#diagrama-orientado-objetos)
-- [Diagrama de Estados](#diagrama-estrutura-componente)
-- [Diagrama de Implantação](#diagrama-de-hardware-software)
+- [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
+- [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
+- [Diagrama de Sequência](#diagrama-de-sequência)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Estados](#diagrama-de-estados)
+- [Diagrama de Implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
@@ -79,9 +79,10 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [RNF006 - Cópia de segurança]: o sistema precisa gerar uma cópia de todos os dados periodicamente.
 
+[RNF007 - Usuário e/ou senha incorretos]: o sistema precisa enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes ao tentar entrar no portal.
+
 # Diagrama de Atividades
-![Sistema de presença (2)](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/806b6d54-6f9b-4847-8e86-72580385f0dc)
-)
+![Sistema de presença (2)](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/146954304/dc7f9728-09b6-43b9-8a7e-50642021a221)
 
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/146954304/25ddcf23-2926-4a79-bcb0-11ae0e1fb3f2"
  width='60%' height='60%'>
@@ -98,6 +99,8 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [UC005 - Calcular porcentagem de faltas]: O sistema deverá calcular a porcentagem de faltas de um aluno toda vez que uma chamada for realizada.
 
 [UC006 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
+
+[UC007 - Usuário e/ou senha incorretos]: O sistema deverá enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credec
 
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'>
  
