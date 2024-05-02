@@ -127,6 +127,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 # Diagrama de Sequência
 
+https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_loc=-484%2C50%2C2782%2C1304%2CPaLdq~84CkD7&invitationId=inv_aacf5402-08d2-4e17-89d8-29b463da7d85
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
 # Diagrama de Classes
