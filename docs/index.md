@@ -100,7 +100,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC006 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
 
-[UC007 - Usuário e/ou senha incorretos]: O sistema deverá enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credec
+[UC007 - Usuário e/ou senha incorretos]: O sistema deverá enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes.
 
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'>
  
@@ -128,6 +128,8 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC006 - Enviar notificações]<br><br>
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/b1baae40-301b-4461-9382-7155899be77d)
+
+[UC007 - Usuário e/ou senha incorretos]<br><br>
 
 # Diagrama de Sequência
 
