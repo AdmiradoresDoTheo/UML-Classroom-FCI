@@ -82,7 +82,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [RNF007 - Usuário e/ou senha incorretos]: o sistema precisa enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes ao tentar entrar no portal.
 
 # Diagrama de Atividades
-![Sistema de presença (2)](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/146954304/dc7f9728-09b6-43b9-8a7e-50642021a221)
+![Sistema de presença](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/6d9b4db0-c8a4-46d0-a4d7-09ce81ef1499)
 
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/dd4f3593-6c70-4a38-bc7a-15196f5e1bb8"
  width='60%' height='60%'>
