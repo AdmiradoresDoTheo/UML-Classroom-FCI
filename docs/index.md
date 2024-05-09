@@ -151,7 +151,7 @@ https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_
 ![Diagrama de Sequência - UC005](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/adf47213-0d37-4b36-8c4c-958758448d17)
 
 [UC006 - Enviar notificações]<br><br>
-![Diagrama de Sequência - UC006](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/1f03fc4f-ffd0-4743-80a2-16203adfed39)
+![Diagrama de Sequência - UC006](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/8673a493-1867-4373-9530-885e65e7795b)
 
 [UC007 - Usuário e/ou senha incorretos]<br><br>
 
