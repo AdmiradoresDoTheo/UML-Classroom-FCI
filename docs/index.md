@@ -79,7 +79,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [RNF006 - Cópia de segurança]: o sistema precisa gerar uma cópia de todos os dados periodicamente.
 
-[RNF007 - Usuário e/ou senha incorretos]: o sistema precisa enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes ao tentar entrar no portal.
+[RNF007 - Usuário e/ou senha incorretos]: o sistema precisa enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes ao tentar entrar no portal. Caso o usuário tenha errado suas credenciais mais de 5 vezes, deve ser bloqueado por novas tentativas até ter concluído a etapa de recuperação de senha.
 
 # Diagrama de Atividades
 ![Sistema de presença](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/6d9b4db0-c8a4-46d0-a4d7-09ce81ef1499)
@@ -130,6 +130,8 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 ![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/b1baae40-301b-4461-9382-7155899be77d)
 
 [UC007 - Usuário e/ou senha incorretos]<br><br>
+![image](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/9d04ae57-3704-435c-94d8-47d0258d4855)
+
 
 # Diagrama de Sequência
 
