@@ -136,17 +136,22 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_loc=-484%2C50%2C2782%2C1304%2CPaLdq~84CkD7&invitationId=inv_aacf5402-08d2-4e17-89d8-29b463da7d85
 
 [UC001 - Entrar]<br><br>
-![DSUC01](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/615134c6-681c-4aaa-b584-3731a5225f6d)
+![Diagrama de Sequência - UC001](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/862d6fcb-0b01-404b-84c2-7262f537d7af)
 
 [UC002 - Registrar faltas]<br><br>
+![Diagrama de Sequência - UC002](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/77b07915-f1be-4dcb-a8c7-cf4b46d8e330)
 
 [UC003 - Visualizar faltas]<br><br>
+![Diagrama de Sequência - UC003](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/385a63b8-356b-4847-9063-ffc119c32979)
 
 [UC004 - Sair]<br><br>
+![Diagrama de Sequência - UC004](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/eedd602f-4431-40f5-a2e2-53d226c1f47c)
 
 [UC005 - Calcular porcentagem de faltas]<br><br>
+![Diagrama de Sequência - UC005](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/adf47213-0d37-4b36-8c4c-958758448d17)
 
 [UC006 - Enviar notificações]<br><br>
+![Diagrama de Sequência - UC006](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/1f03fc4f-ffd0-4743-80a2-16203adfed39)
 
 [UC007 - Usuário e/ou senha incorretos]<br><br>
 
