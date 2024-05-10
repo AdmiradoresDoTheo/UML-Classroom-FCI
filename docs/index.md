@@ -156,6 +156,9 @@ https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_
 ![Diagrama de Sequência - UC006](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/8673a493-1867-4373-9530-885e65e7795b)
 
 [UC007 - Usuário e/ou senha incorretos]<br><br>
+![Diagrama de Sequência - UC007](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/a278a6d2-3ab3-4c16-bf0e-dd05c71bc717)
+
+
 
 # Diagrama de Classes
 
