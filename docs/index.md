@@ -82,7 +82,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 [RNF007 - Usuário e/ou senha incorretos]: o sistema precisa enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes ao tentar entrar no portal. Caso o usuário tenha errado suas credenciais mais de 5 vezes, deve ser bloqueado por novas tentativas até ter concluído a etapa de recuperação de senha.
 
 # Diagrama de Atividades
-![Sistema de presença](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/6d9b4db0-c8a4-46d0-a4d7-09ce81ef1499)
+![Sistema de presença] (https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/6d9b4db0-c8a4-46d0-a4d7-09ce81ef1499) 
 
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/dd4f3593-6c70-4a38-bc7a-15196f5e1bb8"
  width='60%' height='60%'>
@@ -102,7 +102,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC007 - Usuário e/ou senha incorretos]: O sistema deverá enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes.
 
-<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'>
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='80%' height='80%'>
  
 # Descrição dos Casos de Uso
 
@@ -138,26 +138,38 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_loc=-484%2C50%2C2782%2C1304%2CPaLdq~84CkD7&invitationId=inv_aacf5402-08d2-4e17-89d8-29b463da7d85
 
 [UC001 - Entrar]<br><br>
-![Diagrama de Sequência - UC001](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/862d6fcb-0b01-404b-84c2-7262f537d7af)
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/862d6fcb-0b01-404b-84c2-7262f537d7af"
+ width='70%' height='70%'>
 
 [UC002 - Registrar faltas]<br><br>
-![Diagrama de Sequência - UC002](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/77b07915-f1be-4dcb-a8c7-cf4b46d8e330)
+
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/77b07915-f1be-4dcb-a8c7-cf4b46d8e330"
+ width='70%' height='70%'>
 
 [UC003 - Visualizar faltas]<br><br>
-![Diagrama de Sequência - UC003](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/385a63b8-356b-4847-9063-ffc119c32979)
+
+<img src = "(https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/385a63b8-356b-4847-9063-ffc119c32979"
+ width='70%' height='70%'>
 
 [UC004 - Sair]<br><br>
-![Diagrama de Sequência - UC004](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/eedd602f-4431-40f5-a2e2-53d226c1f47c)
+
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/eedd602f-4431-40f5-a2e2-53d226c1f47c"
+ width='70%' height='70%'>
 
 [UC005 - Calcular porcentagem de faltas]<br><br>
-![Diagrama de Sequência - UC005](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/adf47213-0d37-4b36-8c4c-958758448d17)
+
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/adf47213-0d37-4b36-8c4c-958758448d17"
+ width='70%' height='70%'>
 
 [UC006 - Enviar notificações]<br><br>
-![Diagrama de Sequência - UC006](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/8673a493-1867-4373-9530-885e65e7795b)
+
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/8673a493-1867-4373-9530-885e65e7795b"
+ width='70%' height='70%'>
 
 [UC007 - Usuário e/ou senha incorretos]<br><br>
-![Diagrama de Sequência - UC007](https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/a278a6d2-3ab3-4c16-bf0e-dd05c71bc717)
 
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/63428392/a278a6d2-3ab3-4c16-bf0e-dd05c71bc717"
+ width='70%' height='70%'>
 
 
 # Diagrama de Classes
