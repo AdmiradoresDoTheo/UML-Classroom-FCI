@@ -57,7 +57,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [RF006 - Visualizar faltas]: ao entrar no sistema, os alunos (e os pais/responsáveis) devem ser capazes de visualizar as faltas obtidas (tanto em número inteiro quanto em percentual).
 
-[RF007 - Login]: os usuários devem ter uma conta cadastrada no sistema.
+[RF007 - Entrar]: os usuários devem ter uma conta cadastrada no sistema.
 
 [RF008 - Calcular faltas]: O sistema deverá calcular a porcentagem de faltas de um aluno toda vez que uma chamada for realizada.
 
@@ -174,7 +174,8 @@ https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/15d02fff-c191-4fe3-8bb5-91ed74c116d8"
+ width='70%' height='70%'>
 
 # Diagrama de Estados
 
