@@ -174,9 +174,9 @@ https://lucid.app/lucidchart/870260da-42ed-41d5-8976-556918377591/edit?viewport_
 
 # Diagrama de Classes
 
-<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/15d02fff-c191-4fe3-8bb5-91ed74c116d8"
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f3c35ee6-a580-42d2-a590-583c017a9200"
  width='70%' height='70%'>
-
+ 
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
