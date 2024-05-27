@@ -85,11 +85,13 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 # Diagrama de Atividades
 
+<p align="center">
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/6d9b4db0-c8a4-46d0-a4d7-09ce81ef1499"
- width='90%' height='90%'>
+ width='90%' height='90%'></p>
 
+<p align="center">
 <img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/dd4f3593-6c70-4a38-bc7a-15196f5e1bb8"
- width='90%' height='90%'>
+ width='90%' height='90%'></p>
 
 # Diagrama de Casos de Uso
 [UC001 - Entrar]: Os usuários aluno, professor e pais/responsáveis são capazes de entrar no sistema usando usuário e senha.
@@ -106,7 +108,8 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [UC007 - Usuário e/ou senha incorretos]: O sistema deverá enviar um e-mail de recuperação de senha para o usuário caso ele tenha errado as credenciais mais de 5 vezes.
 
-<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'>
+<p align="center">
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/f26da456-ab87-437e-bc2b-8f604a2d2452)" width='90%' height='90%'></p>
  
 # Descrição dos Casos de Uso
 
