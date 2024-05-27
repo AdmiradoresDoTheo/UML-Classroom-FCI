@@ -59,9 +59,11 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 [RF007 - Entrar]: os usuários devem ter uma conta cadastrada no sistema.
 
-[RF008 - Calcular faltas]: O sistema deverá calcular a porcentagem de faltas de um aluno toda vez que uma chamada for realizada.
+[RF008 - Sair]: os usuários devem ser capazes de sair da sua conta quando desejarem.
 
-[RF009 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
+[RF009 - Calcular faltas]: O sistema deverá calcular a porcentagem de faltas de um aluno toda vez que uma chamada for realizada.
+
+[RF010 - Enviar notificações]: O sistema deverá enviar notificações para os pais/responsáveis de um aluno que estiver perto de reprovar por falta.
 
 >Obs.: cada turma deve ter um professor associado
 
