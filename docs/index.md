@@ -185,7 +185,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 # Diagrama de Estados
 
 <p align="center">
-<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/a559395c-2f99-4d81-94c0-c87d1f2c9d97"
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/34560c97-83c2-48d0-817f-120b83579532"
  width='80%' height='80%'></p>
 
 # Diagrama de Implantação
