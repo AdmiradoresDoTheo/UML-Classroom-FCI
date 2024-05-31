@@ -190,7 +190,9 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+<p align="center">
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/9cd238a0-6d5a-4162-8077-aab381a40ecb"
+ width='70%' height='70%'></p>
 
 # Referências
 
