@@ -184,7 +184,9 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
  
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+<p align="center">
+<img src = "https://github.com/admiradores-do-theo/UML-Classroom-FCI/assets/161724552/a559395c-2f99-4d81-94c0-c87d1f2c9d97"
+ width='80%' height='80%'></p>
 
 # Diagrama de Implantação
 
