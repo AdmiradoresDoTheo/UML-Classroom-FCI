@@ -196,4 +196,7 @@ A chamada é realizada duas vezes todos os dias sendo a primeira no início das 
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- https://app.diagrams.net/
+- https://lucid.app/users/login#/login
+- SOMMERVILLE, I, Engenharia de Software. 10. ed. São Paulo: Pearson Education do Brasil, 2018
+- Wazlawick, R.S. Engenharia de Software Conceitos e Práticas. Rio de Janeiro: Elsevier, 2013
